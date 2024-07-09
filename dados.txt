@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Rodrigo Romero.
+-Profissão: Analista de Software.
+-Cidade: Maceió.
+-O que faz nas horas vaga: Jogo Video Game.
+-Feedback sobre o curso Qualidade de Software: Ótima didática e rápida resposta as perguntas e comentários.
+-Feedback sobre a plataforma de estudo da EBAC: Ótima plataforma, intuitiva e com grande variedade de cursos.
 
 Obrigado!!!
 
